@@ -1,6 +1,6 @@
 const String newsAPIBaseURL = "https://newsapi.org/v2/";
 // add your api key here
-const String newsAPIKey = '';
+const String newsAPIKey = 'cbdebe740e044d8d9178223f72f262d1';
 const String countryQuery = 'us';
 const String categoryQuery = 'technology';
 const String kDefaultImage =
